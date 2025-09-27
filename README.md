@@ -1,5 +1,4 @@
 # CNassignment1:
-# CN Assignment 01 – Computer Networks
 
 **Course:** Computer Networks (Comp-352)
 **Semester:** 5th (Fall 2025)
