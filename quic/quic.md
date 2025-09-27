@@ -7,7 +7,6 @@ After analyzing the collected traces of QUIC, the following details were observe
 ### 1. Name of the Website
 
 `https://www.facebook.com/`
-
 ---
 
 ### 2. Initial QUIC Handshake
